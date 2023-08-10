@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 import '../../../../../core/utils/constants/app_constant.dart';
 import '../../../../../core/utils/styles/styles.dart';
 import 'best_seller_list_view.dart';
-import 'custom_app_bar.dart';
-import 'featured_books_list_view.dart';
+import 'custom_home_app_bar.dart';
+import 'custom_books_image.dart';
 
 class HomeViewBody extends StatelessWidget {
   const HomeViewBody({super.key});
