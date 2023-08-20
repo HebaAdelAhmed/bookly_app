@@ -8,7 +8,7 @@ class YouCanAlsoLikeListView extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return SizedBox(
-      height: MediaQuery.of(context).size.height / 5.1,
+      height: MediaQuery.of(context).size.height / 6.1,
       child: ListView.separated(
         separatorBuilder: (context, index) => const SizedBox(
           width: 8.0,
